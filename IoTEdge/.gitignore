@@ -1,0 +1,4 @@
+config/
+.vscode
+.devcontainer
+/.vs/slnx.sqlite
